@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "789291224718",
+    "project_id": "suggesta-6e4aa",
+    "storage_bucket": "suggesta-6e4aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789291224718:android:e6d1913dd679cc995643df",
+        "android_client_info": {
+          "package_name": "com.example.suggesta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo6BbtwixN9uvRcu1TN2wMUtlrgz4B8Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
